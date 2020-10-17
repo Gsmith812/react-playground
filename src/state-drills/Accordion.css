@@ -1,0 +1,23 @@
+li {
+    list-style: none;
+    margin: 10px;
+}
+
+li > button {
+    border-radius: 45% 45% 0 0;
+    background-color: grey;
+    border: none;
+    padding: 5px;
+    margin-bottom: 0;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+li > p {
+    background-color: grey;
+    padding: 20px;
+    margin-top:0;
+    color: #ffffff;
+    border-radius: 0 10px 10px 10px;
+}
